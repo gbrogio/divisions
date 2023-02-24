@@ -36,5 +36,5 @@ setInterval(() => {
 
   console.clear(); 
   console.log(result)
-}, 10);
+}, 100);
 
