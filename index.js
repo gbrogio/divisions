@@ -39,5 +39,5 @@ setInterval(() => {
   
   
   if (q.length < 2001) {console.clear(); console.log(q)}
-}, 10);
+}, 100);
 
